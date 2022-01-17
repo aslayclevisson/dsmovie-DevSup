@@ -38,6 +38,7 @@
     cursor: unset;
 }
 
+
 .dsmovie-pagination-button:disabled svg {
     filter: none;
 }
