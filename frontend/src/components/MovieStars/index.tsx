@@ -7,7 +7,7 @@ import "./styles.css";
 function MovieStars() {
   return (
     <div className="dsmovie-stars-container">
-      <FullStar/>
+      <FullStar />
       <FullStar />
       <FullStar />
       <HalfStar />
